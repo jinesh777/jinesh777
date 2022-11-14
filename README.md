@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinesh777
 - 👀 I’m interested in ML DL Python and nodejs
-- 🌱 I’m currently learning DL 
+- 🌱 I’m currently Working with DL projects 
 - 💞️ I’m looking to collaborate on any good project 
 - 📫 How to reach me 7353476789
 
